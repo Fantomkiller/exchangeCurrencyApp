@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/exchangeCurrencyApp/static/css/main.8e219b58.chunk.css",
-    "main.js": "/exchangeCurrencyApp/static/js/main.b6a0b1e6.chunk.js",
-    "main.js.map": "/exchangeCurrencyApp/static/js/main.b6a0b1e6.chunk.js.map",
+    "main.css": "/exchangeCurrencyApp/static/css/main.f356800c.chunk.css",
+    "main.js": "/exchangeCurrencyApp/static/js/main.6c29b6ec.chunk.js",
+    "main.js.map": "/exchangeCurrencyApp/static/js/main.6c29b6ec.chunk.js.map",
     "runtime-main.js": "/exchangeCurrencyApp/static/js/runtime-main.a6da7e5e.js",
     "runtime-main.js.map": "/exchangeCurrencyApp/static/js/runtime-main.a6da7e5e.js.map",
-    "static/js/2.29b3adfc.chunk.js": "/exchangeCurrencyApp/static/js/2.29b3adfc.chunk.js",
-    "static/js/2.29b3adfc.chunk.js.map": "/exchangeCurrencyApp/static/js/2.29b3adfc.chunk.js.map",
+    "static/js/2.9c3b9695.chunk.js": "/exchangeCurrencyApp/static/js/2.9c3b9695.chunk.js",
+    "static/js/2.9c3b9695.chunk.js.map": "/exchangeCurrencyApp/static/js/2.9c3b9695.chunk.js.map",
     "index.html": "/exchangeCurrencyApp/index.html",
-    "precache-manifest.b1a6a49fea2bafab04e4d30e6c71ba10.js": "/exchangeCurrencyApp/precache-manifest.b1a6a49fea2bafab04e4d30e6c71ba10.js",
+    "precache-manifest.50ff666a74cbb9a4babf2215ab195d4e.js": "/exchangeCurrencyApp/precache-manifest.50ff666a74cbb9a4babf2215ab195d4e.js",
     "service-worker.js": "/exchangeCurrencyApp/service-worker.js",
-    "static/css/main.8e219b58.chunk.css.map": "/exchangeCurrencyApp/static/css/main.8e219b58.chunk.css.map",
-    "static/js/2.29b3adfc.chunk.js.LICENSE": "/exchangeCurrencyApp/static/js/2.29b3adfc.chunk.js.LICENSE"
+    "static/css/main.f356800c.chunk.css.map": "/exchangeCurrencyApp/static/css/main.f356800c.chunk.css.map",
+    "static/js/2.9c3b9695.chunk.js.LICENSE": "/exchangeCurrencyApp/static/js/2.9c3b9695.chunk.js.LICENSE",
+    "static/media/CurrencyRatioExchangeContainer.sccs": "/exchangeCurrencyApp/static/media/CurrencyRatioExchangeContainer.098a2c66.sccs"
   },
   "entrypoints": [
     "static/js/runtime-main.a6da7e5e.js",
-    "static/js/2.29b3adfc.chunk.js",
-    "static/css/main.8e219b58.chunk.css",
-    "static/js/main.b6a0b1e6.chunk.js"
+    "static/js/2.9c3b9695.chunk.js",
+    "static/css/main.f356800c.chunk.css",
+    "static/js/main.6c29b6ec.chunk.js"
   ]
 }

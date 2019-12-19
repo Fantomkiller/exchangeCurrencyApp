@@ -1,0 +1,8 @@
+.CurrencyRatioExchangeContainer {
+	.form-wrapper{
+		display: flex;
+	}
+	input {
+		margin: 0px 10px;
+	}
+}
