@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  justify-content: space-evenly;
+  max-width: 1200px;
+  margin: 40px auto;
+}
+.left-column,
+.right-column {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.left-column {
+  max-width: 60%;
+}
+
+.right-column {
+  max-width: 40%;
+}
