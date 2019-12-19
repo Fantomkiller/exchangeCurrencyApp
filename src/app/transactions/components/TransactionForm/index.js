@@ -24,7 +24,7 @@ const TransactionForm = (props) => {
 		setInputValue(transactionNameInput.current.value)
 	}
 
-	const disabledClass = !!inputValue ? '' : ' disabled';
+	const disabledClass = !!inputValue ? '' : ' is-disabled';
 
 	return <div className={'TransactionForm'}>
 		<div className={'section-title'}>

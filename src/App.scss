@@ -43,7 +43,7 @@
   &:hover {
     box-shadow: 0 0 2px rgb(229, 151, 0)
   }
-  &.disabled {
+  &.is-disabled {
     opacity: 50%;
     pointer-events: none;
   }
