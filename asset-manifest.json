@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/exchangeCurrencyApp/static/css/main.e41e1826.chunk.css",
-    "main.js": "/exchangeCurrencyApp/static/js/main.f9a3f634.chunk.js",
-    "main.js.map": "/exchangeCurrencyApp/static/js/main.f9a3f634.chunk.js.map",
+    "main.js": "/exchangeCurrencyApp/static/js/main.4edd7e42.chunk.js",
+    "main.js.map": "/exchangeCurrencyApp/static/js/main.4edd7e42.chunk.js.map",
     "runtime-main.js": "/exchangeCurrencyApp/static/js/runtime-main.c85e4858.js",
     "runtime-main.js.map": "/exchangeCurrencyApp/static/js/runtime-main.c85e4858.js.map",
-    "static/js/2.3327fa47.chunk.js": "/exchangeCurrencyApp/static/js/2.3327fa47.chunk.js",
-    "static/js/2.3327fa47.chunk.js.map": "/exchangeCurrencyApp/static/js/2.3327fa47.chunk.js.map",
+    "static/js/2.c7590593.chunk.js": "/exchangeCurrencyApp/static/js/2.c7590593.chunk.js",
+    "static/js/2.c7590593.chunk.js.map": "/exchangeCurrencyApp/static/js/2.c7590593.chunk.js.map",
     "index.html": "/exchangeCurrencyApp/index.html",
-    "precache-manifest.1114a6912540081f1dfc89ff84ac4e96.js": "/exchangeCurrencyApp/precache-manifest.1114a6912540081f1dfc89ff84ac4e96.js",
+    "precache-manifest.eeb5adf545a9945cc80cc17736d00e84.js": "/exchangeCurrencyApp/precache-manifest.eeb5adf545a9945cc80cc17736d00e84.js",
     "service-worker.js": "/exchangeCurrencyApp/service-worker.js",
     "static/css/main.e41e1826.chunk.css.map": "/exchangeCurrencyApp/static/css/main.e41e1826.chunk.css.map",
-    "static/js/2.3327fa47.chunk.js.LICENSE": "/exchangeCurrencyApp/static/js/2.3327fa47.chunk.js.LICENSE"
+    "static/js/2.c7590593.chunk.js.LICENSE": "/exchangeCurrencyApp/static/js/2.c7590593.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.c85e4858.js",
-    "static/js/2.3327fa47.chunk.js",
+    "static/js/2.c7590593.chunk.js",
     "static/css/main.e41e1826.chunk.css",
-    "static/js/main.f9a3f634.chunk.js"
+    "static/js/main.4edd7e42.chunk.js"
   ]
 }
