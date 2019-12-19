@@ -48,6 +48,7 @@ const TransactionForm = (props) => {
 				   defaultValue={1}
 				   className={'transactionValueInput'}
 			/>
+			<span>€</span>
 			<button className={'button addButton' + disabledClass} type='submit'>+</button>
 		</form>
 	</div>;
