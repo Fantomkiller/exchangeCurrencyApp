@@ -2,6 +2,7 @@ import React from 'react'
 import connect from "react-redux/es/connect/connect";
 import actions from "../../duck/actions";
 import ShowCurrency from "../_reusable/ShowCurrency";
+import '../_css/TransactionView.scss'
 
 const TransactionView = (props) => {
 	const removeTransaction = (id) => {
@@ -9,7 +10,7 @@ const TransactionView = (props) => {
 	};
 
 	return <div className={'TransactionView'}>
-		{props.name}
+		<span className={'transactionName-container'}>{props.name}</span>
 		<ShowCurrency
 			value={props.valueEuro}
 		/>
@@ -20,6 +21,7 @@ const TransactionView = (props) => {
 		<button
 			className="Button removeButton"
 			onClick={()=>removeTransaction(props.id)}>
+			x
 		</button>
 	</div>
 };

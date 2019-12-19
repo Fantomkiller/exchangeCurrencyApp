@@ -1,0 +1,48 @@
+.TransactionView {
+	display: flex;
+	position: relative;
+	.transactionName-container {
+		flex-basis: 60%;
+		background: #343744;
+		border-radius: 14px 0px 0px 14px;
+		display: flex;
+		justify-content: flex-start;
+		flex-grow: 1;
+		margin-bottom: .5rem;
+		margin-right: .5rem;
+		align-items: center;
+		padding: 14px;
+		max-width: 52%;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+	.CurrencyContainer {
+		flex-basis: 20%;
+		background: #343744;
+		margin-bottom: .5rem;
+		margin-right: .5rem;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.removeButton {
+		cursor: pointer;
+		background: #313440;
+		border-radius: 0px 14px 14px 0px;
+		padding: 14px;
+		margin-bottom: 7px;
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		transition: all ease .2s;
+		font-weight: bold;
+		color: #B23B00;
+		border: none;
+		&:hover {
+			color: white;
+			transform: translateY(-2px);
+			background: #BC2E29;
+		}
+	}
+}

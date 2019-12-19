@@ -1,7 +1,7 @@
 import React from 'react'
 import { useSelector } from 'react-redux'
 import TransactionView from "../TransactionView";
-// import './TopTransactionList.scss'
+import '../_css/TopTransactionList.scss'
 
 const TopTransactionList = () => {
 	const transactions = useSelector(state => state.transactions.list);
@@ -11,6 +11,9 @@ const TopTransactionList = () => {
 	const topTransactions = sortedTransactions.slice(0,3);
 
 	return <div className={'TopTransactionList'}>
+		<div className={'section-header'}>
+			<h2>Top transactions</h2>
+		</div>
 		{topTransactions.map(transaction =>
 			<TransactionView
 				key={transaction.id}

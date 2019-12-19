@@ -1,0 +1,23 @@
+.TransactionSum {
+	.information-wrapper {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		.CurrencyContainer {
+			flex-basis: 50%;
+			background: #343744;
+			margin-bottom: .5rem;
+			margin-right: .5rem;
+			padding: 14px;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			&:first-child {
+				border-radius: 14px 0 0 14px;
+			}
+			&:last-child {
+				border-radius: 0 14px 14px 0;
+			}
+		}
+	}
+}

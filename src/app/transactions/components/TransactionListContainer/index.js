@@ -11,6 +11,9 @@ const TransactionListContainer = () => {
 
 
 	return <div className={'TransactionListContainer'}>
+		<div className={'section-header'}>
+			<h2>Transaction List</h2>
+		</div>
 			{transactions.map(transaction =>
 				<TransactionView
 					key={transaction.id}

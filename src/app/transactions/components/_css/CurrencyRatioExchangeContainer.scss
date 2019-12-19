@@ -1,0 +1,32 @@
+.CurrencyRatioExchangeContainer {
+	display: flex;
+	position: relative;
+	flex-direction: column;
+	div {
+		justify-content: center;
+		align-items: center;
+		display: flex;
+	}
+	.changeButton {
+		background: #232632;
+		color: #00a7fa;
+		width: 80px;
+		border: 0px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.form-wrapper {
+		display: flex;
+		background: #343744;
+		padding: 14px;
+		border-radius: 14px;
+		form {
+			display: flex;
+		}
+	}
+	input {
+		margin: 0px .5rem;
+		max-width: 100px;
+	}
+}
