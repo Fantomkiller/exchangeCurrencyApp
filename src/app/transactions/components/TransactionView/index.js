@@ -1,5 +1,5 @@
 import React from 'react'
-import connect from "react-redux/es/connect/connect";
+import {connect} from "react-redux";
 import actions from "../../duck/actions";
 import ShowCurrency from "../_reusable/ShowCurrency";
 import '../_css/TransactionView.scss'

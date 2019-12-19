@@ -1,6 +1,5 @@
 import React from 'react';
-import {useSelector} from "react-redux";
-import connect from "react-redux/es/connect/connect";
+import {useSelector , connect} from "react-redux";
 import actions from "../../duck/actions";
 import "../_css/CurrencyRatioExchangeContainer.scss";
 
