@@ -21,7 +21,7 @@ const TransactionView = (props) => {
 		<button
 			className="Button removeButton"
 			onClick={()=>removeTransaction(props.id)}>
-			x
+			X
 		</button>
 	</div>
 };

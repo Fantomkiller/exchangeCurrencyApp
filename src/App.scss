@@ -44,7 +44,7 @@
     box-shadow: 0 0 2px rgb(229, 151, 0)
   }
   &.is-disabled {
-    opacity: 50%;
+    opacity: 0.5;
     pointer-events: none;
   }
 }
